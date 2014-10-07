@@ -1,0 +1,4 @@
+0 @I0001@ INDI
+1 NAME                    Elizabeth Alexandra Mary /Windsor/
+1               SEX F
+1                 BIRT
